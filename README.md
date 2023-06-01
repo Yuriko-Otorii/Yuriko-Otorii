@@ -61,12 +61,3 @@
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
   </a>
 </div>
-
-<br>
-<br>
-<br>
-
-<div align="left"> 
-<img src="https://komarev.com/ghpvc/?username=yuriko-otorii&label=Profile%20views&color=0e75b6&style=flat" alt="yuriko-otorii" />
-
- </div>
