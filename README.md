@@ -4,8 +4,7 @@
 <br>
 <br>
 
-<div style="display: flex;">
-</div>
+<div>
   <img align="right" width="180px" style="margin-left: 1rem;" src="./images/dog-img.jpg"/>
 
   <div>
@@ -16,6 +15,8 @@
     <p>⚡ Fun fact: Having a background as a registered dietician (in Japan) and translator (eng to jpn).</p>
     <p>🌐 Check my <a href="https://portfolio-yuriko.vercel.app/" alt="portfolio" target="_blank"> portfolio!</a></p>
   </div>
+</div>
+
 
 <br>
 <br>
@@ -50,15 +51,11 @@
 
 <br>
 <br>
-
-<br>
-
-<br>
 <br>
 
 <h3 align="center">🔗 Contact with me!</h3>
 <br>
-<div style="display: flex; flex-direction: column; align-items: center; gap: .5rem;">
+<div align="center">
   <a href="mailto:yuriko.otorii@gmail.com"><img src="https://img.shields.io/badge/yuriko.otorii@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="My email"></a>
    <a href="https://www.linkedin.com/in/yuriko-127381256/" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
