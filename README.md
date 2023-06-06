@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Yuriko</h1>
-<h2 align="left">I am a full-stack developer based in Vancouver.</h2>
+<h3 align="left">I am a full-stack developer based in Vancouver.</h3>
 
 <br>
 <br>
