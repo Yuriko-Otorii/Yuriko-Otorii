@@ -8,10 +8,10 @@
   <img align="right" width="180px" style="margin-left: 1rem;" src="./images/dog-img.jpg"/>
 
   <div>
-    <p> 🔭 I’m currently working on an Angular project.</p>
-    <p>🌱 I’m currently learning Next.js.</p>    
+    <p>🌱 I’m currently working on an Angular and Next.js projects.</p> 
     <p>🌟 I'm fond of coding, especially, problem-solving.</p>
     <p>🐶 I'm definitely a dog person!
+    <p>🏐 I'm a volleyball player in my spare time.</p>
     <p>⚡ Fun fact: Having a background as a registered dietician (in Japan) and translator (eng to jpn).</p>
     <p>🌐 Check my <a href="https://portfolio-yuriko.vercel.app/" alt="portfolio" target="_blank"> portfolio!</a></p>
   </div>
