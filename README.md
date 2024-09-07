@@ -8,7 +8,7 @@
   <img align="right" width="180px" style="margin-left: 1rem;" src="./images/dog-img.jpg"/>
 
   <div>
-    <p>🌱 I’m currently working on an Angular and Next.js projects.</p> 
+    <p>🌱 I’m currently working on React and Next.js projects.</p> 
     <p>🌟 I'm fond of coding, especially, problem-solving.</p>
     <p>🐶 I'm definitely a dog person!
     <p>🏐 I'm a volleyball player in my spare time.</p>
